@@ -1,0 +1,52 @@
+
+#!/bin/sh
+#Version 1.0 This does not check any tunnel status relationship between parent and child collectors.
+[ "$(whoami)" != "root" ] && exec sudo -- "$0" "$@"
+
+function pingtest1 {
+                        utility=169.254.3.47
+                        ping -c 5 $utility> /root/pingtest
+                        pingStatus=$(tail -n 2 /root/pingtest | grep ' 0%')
+                                if [ -z "$pingStatus" ]; then
+                                utility=169.254.0.10
+                                ping -c 5 $utility > /root/pingtest
+                                pingStatus=$(tail -n 2 /root/pingtest | grep ' 0%')
+                                        if [ -z "$pingStatus" ]; then
+                                                if [ $number -ge "4" ]; then
+                                                        echo $(date) $(hostname) "SOD Tunnel could not be restarted. Rebooting." >> /var/log/icprocess.log
+                                                        shutdown -r now
+                                                        exit
+                                                fi
+                                                killall -e -r SOD_.*
+                                                service rma-startup start
+                                                number=$[$number+$counter]
+                                                echo $(date) $(hostname) "Executed killall -e -r SOD_.* Attempt: "$number >> /var/log/icprocess.log
+                                                sleep 900
+#                                                pingtest
+                                        else
+                                                sleep 900
+#                                                pingtest
+                                        fi
+                                else
+                                sleep 900
+#                                pingtest
+                                fi
+}
+
+service rma-startup start
+sleep 60
+
+#set pingtestMonitor to run at boot
+monitor=$(cat /etc/rc.d/rc.local | grep pingtestMonitor.sh)
+if [ -z "$monitor" ]; then
+echo '/usr/bin/pingtestMonitor.sh > /dev/null 2>&1 &' >> /etc/rc.d/rc.local
+fi
+number=0
+counter=1
+service ntpd stop
+ntpdate 169.254.0.10
+service ntpd start
+while true; do
+pingtest1
+done
+ 

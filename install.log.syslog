@@ -1,0 +1,49 @@
+<86>Aug  8 09:56:28 groupadd[1519]: group added to /etc/group: name=utmp, GID=22
+<86>Aug  8 09:56:28 groupadd[1519]: group added to /etc/gshadow: name=utmp
+<86>Aug  8 09:56:28 groupadd[1519]: new group: name=utmp, GID=22
+<86>Aug  8 09:56:28 groupadd[1523]: group added to /etc/group: name=utempter, GID=35
+<86>Aug  8 09:56:28 groupadd[1523]: group added to /etc/gshadow: name=utempter
+<86>Aug  8 09:56:28 groupadd[1523]: new group: name=utempter, GID=35
+<86>Aug  8 09:56:28 groupadd[1530]: group added to /etc/group: name=floppy, GID=19
+<86>Aug  8 09:56:28 groupadd[1530]: group added to /etc/gshadow: name=floppy
+<86>Aug  8 09:56:28 groupadd[1530]: new group: name=floppy, GID=19
+<86>Aug  8 09:56:28 groupadd[1535]: group added to /etc/group: name=vcsa, GID=69
+<86>Aug  8 09:56:28 groupadd[1535]: group added to /etc/gshadow: name=vcsa
+<86>Aug  8 09:56:28 groupadd[1535]: new group: name=vcsa, GID=69
+<86>Aug  8 09:56:28 useradd[1540]: new user: name=vcsa, UID=69, GID=69, home=/dev, shell=/sbin/nologin
+<86>Aug  8 09:56:53 groupadd[1696]: group added to /etc/group: name=cdrom, GID=11
+<86>Aug  8 09:56:53 groupadd[1696]: group added to /etc/gshadow: name=cdrom
+<86>Aug  8 09:56:53 groupadd[1696]: new group: name=cdrom, GID=11
+<86>Aug  8 09:56:53 groupadd[1701]: group added to /etc/group: name=tape, GID=33
+<86>Aug  8 09:56:53 groupadd[1701]: group added to /etc/gshadow: name=tape
+<86>Aug  8 09:56:53 groupadd[1701]: new group: name=tape, GID=33
+<86>Aug  8 09:56:53 groupadd[1706]: group added to /etc/group: name=dialout, GID=18
+<86>Aug  8 09:56:53 groupadd[1706]: group added to /etc/gshadow: name=dialout
+<86>Aug  8 09:56:53 groupadd[1706]: new group: name=dialout, GID=18
+<86>Aug  8 09:56:54 groupadd[1733]: group added to /etc/group: name=saslauth, GID=76
+<86>Aug  8 09:56:54 groupadd[1733]: group added to /etc/gshadow: name=saslauth
+<86>Aug  8 09:56:54 groupadd[1733]: new group: name=saslauth, GID=76
+<86>Aug  8 09:56:54 useradd[1738]: new user: name=saslauth, UID=499, GID=76, home=/var/empty/saslauth, shell=/sbin/nologin
+<86>Aug  8 09:56:55 groupadd[1746]: group added to /etc/group: name=postdrop, GID=90
+<86>Aug  8 09:56:55 groupadd[1746]: group added to /etc/gshadow: name=postdrop
+<86>Aug  8 09:56:55 groupadd[1746]: new group: name=postdrop, GID=90
+<86>Aug  8 09:56:55 groupadd[1750]: group added to /etc/group: name=postfix, GID=89
+<86>Aug  8 09:56:55 groupadd[1750]: group added to /etc/gshadow: name=postfix
+<86>Aug  8 09:56:55 groupadd[1750]: new group: name=postfix, GID=89
+<86>Aug  8 09:56:55 useradd[1755]: new user: name=postfix, UID=89, GID=89, home=/var/spool/postfix, shell=/sbin/nologin
+<86>Aug  8 09:56:55 useradd[1755]: add 'postfix' to group 'mail'
+<86>Aug  8 09:56:55 useradd[1755]: add 'postfix' to shadow group 'mail'
+<14>Aug  8 09:57:30 dbus: avc:  received policyload notice (seqno=2)
+
+<86>Aug  8 09:57:30 groupadd[2240]: group added to /etc/group: name=sshd, GID=74
+<86>Aug  8 09:57:30 groupadd[2240]: group added to /etc/gshadow: name=sshd
+<86>Aug  8 09:57:30 groupadd[2240]: new group: name=sshd, GID=74
+<86>Aug  8 09:57:30 useradd[2245]: new user: name=sshd, UID=74, GID=74, home=/var/empty/sshd, shell=/sbin/nologin
+<86>Aug  8 09:57:32 groupadd[2264]: group added to /etc/group: name=tcpdump, GID=72
+<86>Aug  8 09:57:33 groupadd[2264]: group added to /etc/gshadow: name=tcpdump
+<86>Aug  8 09:57:33 groupadd[2264]: new group: name=tcpdump, GID=72
+<86>Aug  8 09:57:33 useradd[2268]: new user: name=tcpdump, UID=72, GID=72, home=/, shell=/sbin/nologin
+<86>Aug  8 09:57:33 groupadd[2279]: group added to /etc/group: name=oprofile, GID=16
+<86>Aug  8 09:57:33 groupadd[2279]: group added to /etc/gshadow: name=oprofile
+<86>Aug  8 09:57:33 groupadd[2279]: new group: name=oprofile, GID=16
+<86>Aug  8 09:57:33 useradd[2284]: new user: name=oprofile, UID=16, GID=16, home=/home/oprofile, shell=/sbin/nologin

@@ -1,0 +1,6 @@
+echo ' ' > ssh_list
+
+
+for i in $(cat /etc/hosts | grep 198.18 | cut -f 2);do grep $i /etc/hosts; ssh -o ConnectTimeout=5 -o BatchMode=yes -o StrictHostKeyChecking=no $i echo $i' success'; done; 
+#> sshtestoutput 2> ssherr 
+cat ssh_list | grep success | cut -d ' ' -f1 > exclude_list

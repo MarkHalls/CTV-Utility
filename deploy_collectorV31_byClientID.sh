@@ -1,0 +1,1 @@
+for i in $(cat /etc/hosts | grep $1 | cut -f 2);do grep $i /etc/hosts; scp -o ConnectTimeout=5 -o BatchMode=yes -o StrictHostKeyChecking=no /home/sodadmin/sod_upgrade31.zip $i:/usr/local/sod/upgrade/; done;

@@ -1,0 +1,15 @@
+
+Shortcuts:
+$SOD	/usr/local/sod
+$LOG	/opt/open/stm/log
+$UNM	/opt/open/stm/tmp
+
+/var/log/icprocess.log   Location of icservices.sh logs 
+
+Helpful Commands:
+icservices.sh		restart logmatrix service
+output.sh		watch the output directory for changes
+collector.log.0.sh	tail the collector.log.0 file
+unmatched.sh		tail the unmatched lines file
+
+

@@ -1,0 +1,1227 @@
+ 
+198.18.0.137 ATTCTV1-ABSS ATTCTV1-ABSS.ctv.local
+root      1607  0.0  0.0 108164  1452 ?        S    05:04   0:00 /bin/sh /usr/bin/icservicesMonitor.sh
+root      1658  0.6  0.1 129956 22772 ?        S    05:04   1:26 /bin/sh /usr/bin/icservicesMonitor.sh
+root      4632  0.0  0.0 503716  1056 ?        Ss   05:07   0:01 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     29499  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     29501  0.0  0.0 103248   868 ?        S    08:50   0:00 grep Mon
+root     29499  2.0  0.0 106060  1484 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     29503  0.0  0.0 103244   868 ?        S    08:50   0:00 grep ping
+198.18.0.138 ATTCTV2-ABSS ATTCTV2-ABSS.ctv.local
+root     19145  0.0  0.0 570804  2780 ?        Ss   May15   3:57 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     27061  0.0  0.0 106192  1456 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     28149  0.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     28151  0.0  0.0 103244   860 ?        S    08:50   0:00 grep Mon
+root     28149  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     28153  0.0  0.0 103244   860 ?        S    08:50   0:00 grep ping
+198.18.0.115 ATTCTV1-AMETK ATTCTV1-AMETK.ctv.local
+root      3280  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     17060  0.0  0.0 765860  1196 ?        Ss   Jun10   0:07 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     19428  0.0  0.0 106188  1456 ?        S    Jun10   0:05 /bin/sh /usr/bin/icservicesMonitor.sh
+root     32410  2.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     32422  0.0  0.0 103244   876 ?        S    08:50   0:00 grep Mon
+root      3280  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     32410  2.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     32426  0.0  0.0 103244   876 ?        S    08:50   0:00 grep ping
+198.18.0.121 ATTCTV2-AMETK ATTCTV2-AMETK.ctv.local
+root     13332  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     13334  0.0  0.0 103244   860 ?        S    08:50   0:00 grep Mon
+root     17995  0.0  0.0 106192  1448 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     22524  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     31892  0.0  0.0 569252  1184 ?        Ss   Jun09   0:10 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     13332  0.0  0.0 106060  1484 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     13336  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     22524  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.123 ATTCTV1-AOC ATTCTV1-AOC.ctv.local
+198.18.0.129 ATTCTV1-AOCSF ATTCTV1-AOCSF.ctv.local
+root      5044  0.0  0.0 106060  1344 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     10479  0.0  0.0 700324  1244 ?        Ss   Jun09   0:17 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     21750  0.0  0.0 106060  1448 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     21752  0.0  0.0 103244   836 ?        S    08:50   0:00 grep Mon
+root     30808  0.0  0.0 106188  1432 ?        S    Jun10   0:08 /bin/sh /usr/bin/icservicesMonitor.sh
+root      5044  0.0  0.0 106060  1344 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     21750  0.0  0.0 106060  1452 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     21755  0.0  0.0 103244   840 ?        S    08:50   0:00 grep ping
+198.18.0.129 ATTCTV1-AOCSF ATTCTV1-AOCSF.ctv.local
+root       383  0.0  0.0 106060  1344 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      5732  0.0  0.0 106060  1452 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      5734  0.0  0.0 103248   844 ?        S    08:50   0:00 grep Mon
+root     17163  0.0  0.0 503716  1084 ?        Ss   Jun10   0:07 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     26521  0.0  0.0 106188  1432 ?        S    Jun10   0:09 /bin/sh /usr/bin/icservicesMonitor.sh
+root       383  0.0  0.0 106060  1344 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      5732  0.0  0.0 106060  1456 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      5736  0.0  0.0 103248   844 ?        S    08:50   0:00 grep ping
+198.18.0.170 ATTCTV1-APST ATTCTV1-APST.ctv.local
+root      3486  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      3488  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     19785  0.0  0.0 106188  1460 ?        S    Jun10   0:19 /bin/sh /usr/bin/icservicesMonitor.sh
+root     26149  0.0  0.0  14232   608 ?        Ss   Jun10   0:02 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     27593  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      3486  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      3490  0.0  0.0 103244   868 ?        S    08:50   0:00 grep ping
+root     27593  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.171 ATTCTV2-APST ATTCTV2-APST.ctv.local
+root     14241  0.0  0.0  14232   608 ?        Ss   Jun10   0:01 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     17387  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     17389  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     27700  0.0  0.0 106192  1444 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     32010  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     17387  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     17391  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     32010  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.160 ATTCTV1-BBMI ATTCTV1-BBMI.ctv.local
+root     12919  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     16923  0.0  0.0 634788  1244 ?        Ss   Jun09   0:12 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     17011  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     17013  0.0  0.0 103248   872 ?        S    08:50   0:00 grep Mon
+root     29518  0.0  0.0 106188  1460 ?        S    Jun10   0:07 /bin/sh /usr/bin/icservicesMonitor.sh
+root     12919  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     17011  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     17015  0.0  0.0 103248   872 ?        S    08:50   0:00 grep ping
+198.18.0.161 ATTCTV2-BBMI ATTCTV2-BBMI.ctv.local
+root      2474  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     11435  0.0  0.0 372644  3008 ?        Ss   Jun10   0:04 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     26331  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26333  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     30373  0.0  0.0 106192  1452 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root      2474  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     26331  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26335  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+198.18.0.44 SODCTV2-BPE SODCTV2-BPE.ctv.local
+root      4468  0.0  0.0 700324  3304 ?        Ss   Jun09   0:13 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      6924  0.0  0.0 106188  1456 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     14290  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14296  0.0  0.0 103248   884 ?        S    08:50   0:00 grep Mon
+root     26443  0.0  0.0 106060  1360 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     14290  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14298  0.0  0.0 103244   876 ?        S    08:50   0:00 grep ping
+root     26443  0.0  0.0 106060  1360 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.24 SODCTV1-BPE SODCTV1-BPE.ctv.local
+root      3414  0.0  0.0 106064  1416 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     13434  0.0  0.0 106188  1452 ?        S    Jun10   0:01 /bin/sh /usr/bin/icservicesMonitor.sh
+root     20780  0.0  0.0 700324  1268 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     23806  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     23813  0.0  0.0 103248   880 ?        S    08:50   0:00 grep Mon
+root      3414  0.0  0.0 106064  1416 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     23806  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     23815  0.0  0.0 103248   884 ?        S    08:50   0:00 grep ping
+198.18.0.13 ATTCTV1-CADMV ATTCTV1-CADMV.ctv.local
+root     18743  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18745  0.0  0.0 103244   868 ?        S    08:50   0:00 grep Mon
+root     20495  0.0  0.0 503716  3128 ?        Ss   Jun10   0:02 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     22508  0.0  0.0 106188  1456 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     30605  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     18743  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18747  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     30605  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.6 ATTCTV2-CADMV ATTCTV2-CADMV.ctv.local
+root     28012  0.0  0.0 106192  1456 ?        S    Jun10   0:01 /bin/sh /usr/bin/icservicesMonitor.sh
+root     28798  1.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     28800  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     32636  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     32692  0.0  0.0 569252  3220 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     28798  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     28802  0.0  0.0 103244   860 ?        S    08:50   0:00 grep ping
+root     32636  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.134 ATTCTV1-CAFI ATTCTV1-CAFI.ctv.local
+root      8114  0.0  0.0 106188  1460 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     15709  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     15711  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     18521  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     23077  0.0  0.0  14232   604 ?        Ss   Jun09   0:02 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     15709  1.0  0.0 106060  1484 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     15713  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     18521  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.135 ATTCTV2-CAFI ATTCTV2-CAFI.ctv.local
+root      3916  2.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      3918  0.0  0.0 103244   860 ?        S    08:50   0:00 grep Mon
+root      7118  0.0  0.0 106192  1452 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     11205  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     27008  0.0  0.0  14232   608 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      3916  2.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      3920  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     11205  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.5 SODCTV1-CCI SODCTV1-CCI.ctv.local
+root     14204  0.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14206  0.0  0.0 103244   860 ?        S    08:50   0:00 grep Mon
+root     16308  0.0  0.0 106188  1464 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     22654  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     31149  0.0  0.0 569380  1316 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     14204  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14208  0.0  0.0 103244   860 ?        S    08:50   0:00 grep ping
+root     22654  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.50 SODCTV2-CCI SODCTV2-CCI.ctv.local
+198.18.0.32 ATTCTV1-CCLD ATTCTV1-CCLD.ctv.local
+root      1598  0.0  0.0 108296  1552 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root      5063  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      5075  0.0  0.0 503716  1260 ?        Ss   Jun10   0:02 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      7314  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7316  0.0  0.0 103248   872 ?        S    08:50   0:00 grep Mon
+root      5063  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      7314  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7318  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+198.18.0.34 ATTCTV2-CCLD ATTCTV2-CCLD.ctv.local
+root     15470  0.0  0.0 106060  1440 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     18105  0.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18107  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     21017  0.0  0.0 503716  3204 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     21699  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     18105  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18109  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     21699  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.35 ATTCTV3-CCLD ATTCTV3-CCLD.ctv.local
+root     15898  0.0  0.0 106188  1464 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     15967  1.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     15969  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     22345  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     26617  0.0  0.0 700324  1524 ?        Ss   Jun09   0:11 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     15967  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     15971  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     22345  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.36 ATTCTV4-CCLD ATTCTV4-CCLD.ctv.local
+root     13729  0.0  0.0 106192  1456 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     14339  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14341  0.0  0.0 103244   860 ?        S    08:50   0:00 grep Mon
+root     18345  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     19986  0.0  0.0 569252  1184 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     14339  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14343  0.0  0.0 103244   860 ?        S    08:50   0:00 grep ping
+root     18345  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.117 ATTCTV1-CFNWI ATTCTV1-CFNWI.ctv.local
+root      6524  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6526  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     16911  0.0  0.0 106188  1460 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root     19006  0.0  0.0 634788  1252 ?        Ss   Jun09   0:13 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     23854  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      6524  0.0  0.0 106060  1484 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6528  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     23854  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.119 ATTCTV2-CFNWI ATTCTV2-CFNWI.ctv.local
+root       961  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root       963  0.0  0.0 103244   856 ?        S    08:50   0:00 grep Mon
+root      4062  0.0  0.0 106192  1452 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root      8587  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     15319  0.0  0.0 372644   988 ?        Ss   Jun10   0:04 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root       961  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root       965  0.0  0.0 103244   856 ?        S    08:50   0:00 grep ping
+root      8587  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.180 ATTCTV1-CHCKN ATTCTV1-CHCKN.ctv.local
+root      3822  0.0  0.0 106060  1312 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     26277  2.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26279  0.0  0.0 103244   868 ?        S    08:50   0:00 grep Mon
+root     32047  0.0  0.0 106188  1404 ?        S    Jun10   0:01 /bin/sh /usr/bin/icservicesMonitor.sh
+root     32577  0.0  0.0 765860  1020 ?        Ss   Jun09   0:04 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      3822  0.0  0.0 106060  1312 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     26277  2.0  0.0 106060  1484 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26281  0.0  0.0 103244   868 ?        S    08:50   0:00 grep ping
+198.18.0.181 ATTCTV2-CHCKN ATTCTV2-CHCKN.ctv.local
+root      7958  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7960  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     10678  0.0  0.0 106192  1452 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     15210  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     23710  0.0  0.0 503716  1164 ?        Ss   Jun09   0:10 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      7958  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7962  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     15210  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.178 ATTCTV1-CNTCU ATTCTV1-CNTCU.ctv.local
+root      1195  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     10024  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     10026  0.0  0.0 103248   864 ?        S    08:50   0:00 grep Mon
+root     22837  0.0  0.0  14232   612 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     24589  0.0  0.0 106188  1460 ?        S    Jun10   0:05 /bin/sh /usr/bin/icservicesMonitor.sh
+root      1195  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     10024  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     10028  0.0  0.0 103248   864 ?        S    08:50   0:00 grep ping
+198.18.0.179 ATTCTV2-CNTCU ATTCTV2-CNTCU.ctv.local
+root       833  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     21303  0.0  0.0  14232   608 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     21472  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     21474  0.0  0.0 103248   864 ?        S    08:50   0:00 grep Mon
+root     28890  0.0  0.0 106192  1448 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root       833  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     21472  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     21476  0.0  0.0 103248   864 ?        S    08:50   0:00 grep ping
+198.18.0.153 ATTCTV1-CONV ATTCTV1-CONV.ctv.local
+root       612  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      7777  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7779  0.0  0.0 103248   868 ?        S    08:50   0:00 grep Mon
+root     22242  0.0  0.0 106188  1460 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root     32235  0.0  0.0 700324  1268 ?        Ss   Jun09   0:12 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root       612  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      7777  2.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7781  0.0  0.0 103248   868 ?        S    08:50   0:00 grep ping
+198.18.0.154 ATTCTV2-CONV ATTCTV2-CONV.ctv.local
+root       318  0.0  0.0 503716  1168 ?        Ss   Jun09   0:11 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     16116  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     16118  0.0  0.0 103248   864 ?        S    08:50   0:00 grep Mon
+root     19483  0.0  0.0 106192  1448 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     24010  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     16116  0.0  0.0 106060  1484 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     16120  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     24010  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.22 ATTCTV1-CTFRES ATTCTV1-CTFRES.ctv.local
+root     21623  0.0  0.0 106188  1460 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     23961  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     23963  0.0  0.0 103244   868 ?        S    08:50   0:00 grep Mon
+root     27396  0.0  0.0 634788  1264 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     28090  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     23961  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     23969  0.0  0.0 103244   868 ?        S    08:50   0:00 grep ping
+root     28090  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.29 ATTCTV2-CTFRES ATTCTV2-CTFRES.ctv.local
+198.18.0.2 ATTCTV1-CTKING ATTCTV1-CTKING.ctv.local
+root     15784  0.0  0.0 106188  1460 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     18220  0.0  0.0 569252  1232 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     18352  0.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18354  0.0  0.0 103244   860 ?        S    08:50   0:00 grep Mon
+root     22265  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     18352  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18356  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     22265  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.25 ATTCTV2-CTKING ATTCTV2-CTKING.ctv.local
+root     15876  0.0  0.0 106192  1452 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     16623  0.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     16625  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     20496  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     21363  0.0  0.0 569252  1180 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     16623  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     16627  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     20496  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.16 ATTCTV1-CTLOSA ATTCTV1-LOSA.ctv.local
+root      1182  0.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      1184  0.0  0.0 103244   856 ?        S    08:50   0:00 grep Mon
+root     17116  0.0  0.0 106188  1460 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     19289  0.0  0.0 634788  1220 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     23753  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      1182  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      1186  0.0  0.0 103244   860 ?        S    08:50   0:00 grep ping
+root     23753  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.17 ATTCTV2-CTLOSA ATTCTV2-LOSA.ctv.local
+root     20805  0.0  0.0 106192  1452 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     22138  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     22140  0.0  0.0 103244   860 ?        S    08:50   0:00 grep Mon
+root     25456  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     27494  0.0  0.0 503716  1172 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     22138  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     22142  0.0  0.0 103244   860 ?        S    08:50   0:00 grep ping
+root     25456  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.40 ATTCTV1-CTMARN ATTCTV1-MARN.ctv.local
+root      1614  0.0  0.0 108164  1464 ?        S    08:19   0:00 /bin/sh /usr/bin/icservicesMonitor.sh
+root      8822  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      8824  0.0  0.0 103244   868 ?        S    08:50   0:00 grep Mon
+root      8822  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      8826  0.0  0.0 103244   868 ?        S    08:50   0:00 grep ping
+198.18.0.41 ATTCTV2-CTMARN ATTCTV2-MARN.ctv.local
+root      1572  0.0  0.0 108164  1448 ?        S    08:07   0:00 /bin/sh /usr/bin/icservicesMonitor.sh
+root      6049  1.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6051  0.0  0.0 103248   864 ?        S    08:50   0:00 grep Mon
+root      6049  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6053  0.0  0.0 103244   860 ?        S    08:50   0:00 grep ping
+198.18.0.48 ATTCTV1-CTMONT ATTCTV1-CTMONT.ctv.local
+root      4226  0.0  0.0 569252  1104 ?        Ss   Jun10   0:02 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      8879  0.0  0.0 106188  1468 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     11641  0.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     11643  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     15361  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     11641  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     11645  0.0  0.0 103244   868 ?        S    08:50   0:00 grep ping
+root     15361  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.49 ATTCTV2-CTMONT ATTCTV2-CTMONT.ctv.local
+root     16534  0.0  0.0 106192  1456 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     16981  1.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     16983  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     20672  0.0  0.0 569252  1172 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     21150  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     16981  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     16985  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     21150  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.42 ATTCTV1-CTNV ATTCTV1-CTNV.ctv.local
+root      6255  0.0  0.0 503716  1212 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     19730  0.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     19732  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     22199  0.0  0.0 106188  1460 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     28620  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     19730  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     19742  0.0  0.0 103244   860 ?        S    08:50   0:00 grep ping
+root     28620  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.43 ATTCTV2-CTNV ATTCTV2-CTNV.ctv.local
+root      1575  0.0  0.0 108164  1496 ?        S    02:04   0:00 /bin/sh /usr/bin/icservicesMonitor.sh
+root      2049  0.0  0.0 372644   964 ?        Ss   04:54   0:00 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     15202  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     15204  0.0  0.0 103248   864 ?        S    08:50   0:00 grep Mon
+root     15202  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     15206  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+198.18.0.116 ATTCTV1-CTRVR ATTCTV1-CTRVR.ctv.local
+root     10591  0.0  0.0 106188  1460 ?        S    Jun10   0:05 /bin/sh /usr/bin/icservicesMonitor.sh
+root     14773  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14775  0.0  0.0 103244   860 ?        S    08:50   0:00 grep Mon
+root     20931  0.0  0.0 106064  1436 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     29817  0.0  0.0 962596  1416 ?        Ss   Jun09   0:15 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     14773  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14777  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     20931  0.0  0.0 106064  1436 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.122 ATTCTV2-CTRVR ATTCTV2-CTRVR.ctv.local
+root     11606  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     11608  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     13254  0.0  0.0 106192  1448 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     17809  0.0  0.0 106064  1432 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     28056  0.0  0.0  14232   604 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     11606  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     11610  0.0  0.0 103244   860 ?        S    08:50   0:00 grep ping
+root     17809  0.0  0.0 106064  1432 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.20 ATTCTV1-CTSANC ATTCTV1-CTSANC.ctv.local
+root      2108  0.0  0.0 634788  1268 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     18021  0.0  0.0 106188  1464 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     25469  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     32383  1.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     32385  0.0  0.0 103248   872 ?        S    08:50   0:00 grep Mon
+root     25469  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     32383  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     32387  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+198.18.0.21 ATTCTV2-CTSANC ATTCTV2-CTSANC.ctv.local
+root      2517  0.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      2519  0.0  0.0 103244   860 ?        S    08:50   0:00 grep Mon
+root      4200  0.0  0.0 503716  3208 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      4751  0.0  0.0 106064  1432 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     32542  0.0  0.0 106192  1448 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root      2517  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      2521  0.0  0.0 103244   860 ?        S    08:50   0:00 grep ping
+root      4751  0.0  0.0 106064  1432 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.14 ATTCTV1-CTSAND ATTCTV1-CTSAND.ctv.local
+root     14296  0.0  0.0 106188  1464 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     17628  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     29701  1.0  0.0 106060  1472 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     29703  0.0  0.0 103244   868 ?        S    08:50   0:00 grep Mon
+root     31946  0.0  0.0 569252  1100 ?        Ss   Jun10   0:02 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     17628  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     29701  1.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     29705  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+198.18.0.15 ATTCTV2-CTSAND ATTCTV2-CTSAND.ctv.local
+root     20163  0.0  0.0 106192  1448 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     21803  0.0  0.0 106060  1476 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     21805  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     22358  0.0  0.0 503716  1164 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     24815  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     21803  0.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     21807  0.0  0.0 103244   860 ?        S    08:50   0:00 grep ping
+root     24815  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.45 ATTCTV1-CTSFRN ATTCTV1-CTSFRN.ctv.local
+root      3513  0.0  0.0 106188  1464 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     12450  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     14403  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14405  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     17710  0.0  0.0 503716  1112 ?        Ss   Jun10   0:02 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     12450  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     14403  1.0  0.0 106060  1484 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14407  0.0  0.0 103244   868 ?        S    08:50   0:00 grep ping
+198.18.0.28 ATTCTV2-CTSFRN ATTCTV2-CTSFRN.ctv.local
+root      4777  0.0  0.0 372644   980 ?        Ss   Jun10   0:01 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     19727  0.0  0.0 106192  1444 ?        S    Jun10   0:01 /bin/sh /usr/bin/icservicesMonitor.sh
+root     21237  1.0  0.0 106060  1480 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     21239  0.0  0.0 103244   864 ?        S    08:50   0:00 grep Mon
+root     24352  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     21237  1.0  0.0 106060  1484 ?        Ss   08:50   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     21241  0.0  0.0 103244   864 ?        S    08:50   0:00 grep ping
+root     24352  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.30 ATTCTV1-CTSONO ATTCTV1-CTSONO.ctv.local
+root      8159  0.0  0.0 106188  1464 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     12826  1.0  0.0 106060  1472 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     12828  0.0  0.0 103244   860 ?        S    08:51   0:00 grep Mon
+root     14632  0.0  0.0 106064  1432 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     15397  0.0  0.0 831396  1288 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     12826  1.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     12830  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+root     14632  0.0  0.0 106064  1432 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.31 ATTCTV2-CTSONO ATTCTV2-CTSONO.ctv.local
+root      8807  0.0  0.0 503716  1180 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     11776  0.0  0.0 106192  1452 ?        S    Jun10   0:01 /bin/sh /usr/bin/icservicesMonitor.sh
+root     16637  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     19812  1.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     19814  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     16637  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     19812  1.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     19816  0.0  0.0 103244   860 ?        S    08:51   0:00 grep ping
+198.18.0.158 ATTCTV1-CTSRA ATTCTV1-CTSRA.ctv.local
+root      9948  0.0  0.0 569252  1112 ?        Ss   Jun10   0:04 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     15476  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     15478  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     15949  0.0  0.0 106188  1460 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root     22369  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     15476  0.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     15480  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+root     22369  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.159 ATTCTV2-CTSRA ATTCTV2-CTSRA.ctv.local
+root     14146  1.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14148  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     14741  0.0  0.0 106192  1452 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     19333  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     23191  0.0  0.0 503716  1168 ?        Ss   Jun09   0:10 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     14146  1.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14150  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+root     19333  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.8 ATTCTV1-CTTUL ATTCTV1-CTTUL.ctv.local
+root      7216  0.0  0.0 765860  1288 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      7894  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7896  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     15198  0.0  0.0 106188  1448 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     22167  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      7894  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7898  0.0  0.0 103244   860 ?        S    08:51   0:00 grep ping
+root     22167  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.19 ATTCTV2-CTTUL ATTCTV2-CTTUL.ctv.local
+198.18.0.202 ATTCTV1-DCKN ATTCTV1-DCKN.ctv.local
+root      4785  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     14591  0.0  0.0 634788  1272 ?        Ss   Jun09   0:11 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     18820  1.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18822  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     24372  0.0  0.0 106188  1460 ?        S    Jun10   0:05 /bin/sh /usr/bin/icservicesMonitor.sh
+root      4785  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     18820  1.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18825  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+198.18.0.203 ATTCTV2-DCKN ATTCTV2-DCKN.ctv.local
+root      8834  2.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      8836  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     13991  0.0  0.0 106192  1456 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     18420  0.0  0.0 106064  1432 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     31329  0.0  0.0 503716  1176 ?        Ss   Jun09   0:13 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      8834  1.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      8838  0.0  0.0 103244   860 ?        S    08:51   0:00 grep ping
+root     18420  0.0  0.0 106064  1432 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.186 SODCTV1-EH SODCTV1-EH.ctv.local
+root      3654  2.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      3660  0.0  0.0 103244   876 ?        S    08:51   0:00 grep Mon
+root      4607  0.0  0.0 106188  1452 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root     18067  0.0  0.0 106060  1360 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     24600  0.0  0.0 634788  1256 ?        Ss   Jun09   0:17 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      3654  2.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      3662  0.0  0.0 103244   872 ?        S    08:51   0:00 grep ping
+root     18067  0.0  0.0 106060  1360 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.175 ATTCTV1-FGAI ATTCTV1-FGAI.ctv.local
+root      4487  0.0  0.0 106188  1460 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     21059  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     22329  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     22331  0.0  0.0 103248   868 ?        S    08:51   0:00 grep Mon
+root     27738  0.0  0.0 503716  1168 ?        Ss   Jun09   0:07 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     21059  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     22329  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     22333  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+198.18.0.176 ATTCTV2-FGAI ATTCTV2-FGAI.ctv.local
+root     10099  2.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     10101  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     11643  0.0  0.0 106192  1456 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     16200  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     21327  0.0  0.0 569252  1184 ?        Ss   Jun09   0:08 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     10099  2.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     10104  0.0  0.0 106060  1288 ?        S    08:51   0:00 sh -c /bin/ping -i .10 -w 1 10.158.18.1 2>&1
+root     10105  0.0  0.0 103248   764 ?        S    08:51   0:00 /bin/ping -i .10 -w 1 10.158.18.1
+root     10108  0.0  0.0 103244   860 ?        S    08:51   0:00 grep ping
+root     16200  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.47 SODCTV1-FTM SODCTV1-FTM.ctv.local
+root      9573  0.0  0.0 106188  1464 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     16173  0.0  0.0 106064  1436 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     16456  0.0  0.0 106060  1472 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     16458  0.0  0.0 103244   868 ?        S    08:51   0:00 grep Mon
+root     20932  0.0  0.0 634788  1180 ?        Ss   Jun10   0:03 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     16173  0.0  0.0 106064  1436 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     16456  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     16460  0.0  0.0 103244   868 ?        S    08:51   0:00 grep ping
+198.18.0.37 ATTCTV1-GENE ATTCTV1-GENE.ctv.local
+root      9659  0.0  0.0 106060  1308 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     20082  0.0  0.0 700324  1012 ?        Ss   Jun09   0:04 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     24391  0.0  0.0 106188  1404 ?        S    Jun10   0:01 /bin/sh /usr/bin/icservicesMonitor.sh
+root     25551  0.0  0.0 106060  1472 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     25556  0.0  0.0 103244   868 ?        S    08:51   0:00 grep Mon
+root      9659  0.0  0.0 106060  1308 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     25551  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     25558  0.0  0.0 103244   868 ?        S    08:51   0:00 grep ping
+198.18.0.39 ATTCTV2-GENE ATTCTV2-GENE.ctv.local
+root      2584  0.0  0.0 372644   988 ?        Ss   Jun10   0:02 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      3140  0.0  0.0 106192  1452 ?        S    Jun10   0:01 /bin/sh /usr/bin/icservicesMonitor.sh
+root      7669  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     32365  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     32367  0.0  0.0 103244   860 ?        S    08:51   0:00 grep Mon
+root      7669  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     32365  1.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     32369  0.0  0.0 103244   860 ?        S    08:51   0:00 grep ping
+198.18.0.113 SODCTV1-GOAL SODCTV1-GOAL.ctv.local
+root       727  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root       729  0.0  0.0 103244   860 ?        S    08:51   0:00 grep Mon
+root      6906  0.0  0.0 106188  1464 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root     13148  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     29112  0.0  0.0 634788  1252 ?        Ss   Jun09   0:12 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root       727  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root       731  0.0  0.0 103244   856 ?        S    08:51   0:00 grep ping
+root     13148  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.114 SODCTV1-GR SODCTV1-GR.ctv.local
+root     19068  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/icservicesMonitor.sh
+root     23368  0.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     23374  0.0  0.0 103248   884 ?        S    08:51   0:00 grep Mon
+root     26122  0.0  0.0 700324  1348 ?        Ss   Jun09   0:19 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     27537  0.0  0.0 106060  1360 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     23368  0.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     23376  0.0  0.0 103244   880 ?        S    08:51   0:00 grep ping
+root     27537  0.0  0.0 106060  1360 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.33 SODCTV1-HLSI SODCTV1-HLSI.ctv.local
+198.18.0.97 SODCTV1-IDSI SODCTV1-IDSI.ctv.local
+root      3485  0.0  0.0 106188  1468 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root      6680  0.0  0.0 106060  1472 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6682  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     10050  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     14488  0.0  0.0 503716  3140 ?        Ss   Jun10   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      6680  1.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6684  0.0  0.0 103244   868 ?        S    08:51   0:00 grep ping
+root     10050  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.162 ATTCTV1-ITTT ATTCTV1-ITTT.ctv.local
+root      8569  0.0  0.0 106188  1460 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     13687  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     20435  0.0  0.0 634788  1052 ?        Ss   Jun09   0:07 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     23424  2.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     23434  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     13687  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     23424  2.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     23459  0.0  0.0 103244   860 ?        S    08:51   0:00 grep ping
+198.18.0.163 ATTCTV2-ITTT ATTCTV2-ITTT.ctv.local
+root      7510  1.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7512  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     10798  0.0  0.0 106192  1448 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     15298  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     24077  0.0  0.0 503716  1168 ?        Ss   Jun09   0:10 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      7510  1.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7514  0.0  0.0 103244   860 ?        S    08:51   0:00 grep ping
+root     15298  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.111 ATTCTV1-JONM ATTCTV1-JONM.ctv.local
+root     14158  0.0  0.0 106064  1144 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     19100  0.0  0.0 106188  1144 ?        S    Jun10   0:01 /bin/sh /usr/bin/icservicesMonitor.sh
+root     25821  0.0  0.0 569252   844 ?        Ss   Jun09   0:04 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     27562  1.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     27568  0.0  0.0 103248   872 ?        S    08:51   0:00 grep Mon
+root     14158  0.0  0.0 106064  1144 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     27562  1.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     27574  0.0  0.0 103248   868 ?        S    08:51   0:00 grep ping
+198.18.0.112 ATTCTV2-JONM ATTCTV2-JONM.ctv.local
+root     21942  0.0  0.0 106192  1452 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     22657  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     22659  0.0  0.0 103244   860 ?        S    08:51   0:00 grep Mon
+root     26563  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     27227  0.0  0.0 503716  1180 ?        Ss   Jun09   0:11 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     22657  0.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     22661  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+root     26563  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.56 SODCTV1-PATH SODCTV1-PATH.ctv.local
+root     14895  0.0  0.0 765860  1268 ?        Ss   Jun09   0:19 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     16732  0.0  0.0 106188  1468 ?        S    Jun10   0:10 /bin/sh /usr/bin/icservicesMonitor.sh
+root     19900  2.0  0.0 106060  1472 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     19902  0.0  0.0 103244   860 ?        S    08:51   0:00 grep Mon
+root     23168  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     19900  2.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     19904  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+root     23168  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.9 ATTCTV5-PNG ATTCTV5-PNG.ctv.local
+root      9152  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      9154  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     20557  0.0  0.0 700324  1264 ?        Ss   Jun09   0:08 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     23864  0.0  0.0 106188  1460 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     30652  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      9152  0.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      9157  0.0  0.0 103244   868 ?        S    08:51   0:00 grep ping
+root     30652  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.144 ATTCTV6-PNG ATTCTV6-PNG.ctv.local
+root      7558  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7560  0.0  0.0 103244   860 ?        S    08:51   0:00 grep Mon
+root     10793  0.0  0.0 106192  1452 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     15323  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     22828  0.0  0.0 569252  3216 ?        Ss   Jun09   0:08 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      7558  3.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7562  0.0  0.0 103244   860 ?        S    08:51   0:00 grep ping
+root     15323  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.127 ATTCTV1-PNG ATTCTV1-PNG.ctv.local
+root      6083  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6085  0.0  0.0 103244   868 ?        S    08:51   0:00 grep Mon
+root     11483  0.0  0.0 106188  1464 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     16967  0.0  0.0 634788  1256 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     28125  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      6083  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6087  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+root     28125  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.128 ATTCTV2-PNG ATTCTV2-PNG.ctv.local
+root     19449  2.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     19451  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     23356  0.0  0.0 106192  1452 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     25505  0.0  0.0 503716  1164 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     27849  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     19449  2.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     19452  0.0  0.0 106060  1288 ?        S    08:51   0:00 sh -c /bin/ping -i .10 -w 1 10.10.6.12 2>&1
+root     19453  0.0  0.0 103248   764 ?        S    08:51   0:00 /bin/ping -i .10 -w 1 10.10.6.12
+root     19455  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+root     27849  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.145 ATTCTV7-PNG ATTCTV7-PNG.ctv.local
+root      1873  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      3680  0.0  0.0 765860  1292 ?        Ss   Jun09   0:08 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      8958  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      8960  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     27659  0.0  0.0 106188  1460 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root      1873  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      8958  0.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      8962  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+198.18.0.146 ATTCTV8-PNG ATTCTV8-PNG.ctv.local
+root      6640  3.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6642  0.0  0.0 103244   860 ?        S    08:51   0:00 grep Mon
+root     10636  0.0  0.0 106192  1452 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     15128  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     24725  0.0  0.0 569252  1176 ?        Ss   Jun09   0:08 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      6640  3.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6644  0.0  0.0 103244   860 ?        S    08:51   0:00 grep ping
+root     15128  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.147 ATTCTV9-PNG ATTCTV9-PNG.ctv.local
+root      2151  0.0  0.0 765860  1304 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     15659  0.0  0.0 106188  1464 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     22910  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     26383  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26385  0.0  0.0 103248   868 ?        S    08:51   0:00 grep Mon
+root     22910  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     26383  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26387  0.0  0.0 103244   868 ?        S    08:51   0:00 grep ping
+198.18.0.148 ATTCTV10-PNG ATTCTV10-PNG.ctv.local
+root      3623  0.0  0.0 106192  1452 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root      8094  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     17037  0.0  0.0 569252  1180 ?        Ss   Jun09   0:07 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     32658  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     32660  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root      8094  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     32658  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     32662  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+198.18.0.107 ATTCTV1-SAFRA ATTCTV1-SAFRA.ctv.local
+root      1520  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     14460  1.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14463  0.0  0.0 103248   864 ?        S    08:51   0:00 grep Mon
+root     24118  0.0  0.0 106188  1464 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root     27245  0.0  0.0 634788  1252 ?        Ss   Jun09   0:11 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      1520  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     14460  1.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14469  0.0  0.0 103248   864 ?        S    08:51   0:00 grep ping
+198.18.0.108 ATTCTV2-SAFRA ATTCTV2-SAFRA.ctv.local
+root      1773  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      1775  0.0  0.0 103244   860 ?        S    08:51   0:00 grep Mon
+root     10124  0.0  0.0 106192  1452 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     14430  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     32764  0.0  0.0 503716  1164 ?        Ss   Jun09   0:10 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      1773  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      1777  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+root     14430  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.174 ATTCTV1-SBAT ATTCTV1-SBAT.ctv.local
+root      1967  0.0  0.0 106060  1404 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root      8109  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     26685  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26687  0.0  0.0 103248   868 ?        S    08:51   0:00 grep Mon
+root     28952  0.0  0.0 700324  1384 ?        Ss   Jun09   0:31 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      8109  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     26685  0.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26689  0.0  0.0 103248   868 ?        S    08:51   0:00 grep ping
+198.18.0.177 ATTCTV2-SBAT ATTCTV2-SBAT.ctv.local
+root      6721  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6723  0.0  0.0 103244   860 ?        S    08:51   0:00 grep Mon
+root      9020  0.0  0.0 106192  1452 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     13501  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     19476  0.0  0.0 569252  3220 ?        Ss   Jun09   0:12 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      6721  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6725  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+root     13501  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.136 ATTCTV3-SITEL ATTCTV3-SITEL.ctv.local
+root     13100  0.0  0.0  14232   368 ?        Ss   Jun09   0:09 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     17019  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     17021  0.0  0.0 103244   860 ?        S    08:51   0:00 grep Mon
+root     22180  0.0  0.0 106188  1332 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     31443  0.0  0.0 106060  1224 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     17019  1.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     17027  0.0  0.0 103244   860 ?        S    08:51   0:00 grep ping
+root     31443  0.0  0.0 106060  1224 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.141 ATTCTV4-SITEL ATTCTV4-SITEL.ctv.local
+root      8029  0.0  0.0 106192  1456 ?        S    Jun10   0:14 /bin/sh /usr/bin/icservicesMonitor.sh
+root     12207  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     13819  0.0  0.0  14232   612 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     26226  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26228  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     12207  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     26226  0.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26230  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+198.18.0.184 ATTCTV5-SITEL ATTCTV5-SITEL.ctv.local
+root       546  0.0  0.0  14232   408 ?        Ss   Jun09   0:07 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      7902  0.0  0.0 106060  1476 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7906  0.0  0.0 103248   868 ?        S    08:51   0:00 grep Mon
+root     24825  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     31662  0.0  0.0 106188  1460 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root      7902  2.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7918  0.0  0.0 103244   868 ?        S    08:51   0:00 grep ping
+root     24825  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.185 ATTCTV6-SITEL ATTCTV6-SITEL.ctv.local
+root      8739  0.0  0.0 106192  1452 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     12890  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     15866  0.0  0.0  14232   608 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     26167  2.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26169  0.0  0.0 103244   864 ?        S    08:51   0:00 grep Mon
+root     12890  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     26167  2.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26171  0.0  0.0 103244   864 ?        S    08:51   0:00 grep ping
+198.18.0.130 ATTCTV1-SITEL ATTCTV1-SITEL.ctv.local
+root     10418  0.0  0.0 106060  1480 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     10420  0.0  0.0 103244   868 ?        S    08:51   0:00 grep Mon
+root     11171  0.0  0.0  14232   400 ?        Ss   Jun10   0:01 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     12481  0.0  0.0 106188  1176 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     12970  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     10418  0.0  0.0 106060  1484 ?        Ss   08:51   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     10430  0.0  0.0 103244   868 ?        S    08:51   0:00 grep ping
+root     12970  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.131 ATTCTV2-SITEL ATTCTV2-SITEL.ctv.local
+198.18.0.139 SODCTV1-SMLINY SODCTV1-SMLINY.ctv.local
+root     13939  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     13941  0.0  0.0 103244   856 ?        S    08:52   0:00 grep Mon
+root     14878  0.0  0.0 106188  1456 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     21284  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     26822  0.0  0.0 634788  1264 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     13939  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     13943  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+root     21284  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.140 SODCTV2-SMLINY SODCTV2-SMLINY.ctv.local
+root     25174  0.0  0.0 106192  1452 ?        S    Jun10   0:01 /bin/sh /usr/bin/icservicesMonitor.sh
+root     26348  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26350  0.0  0.0 103244   856 ?        S    08:52   0:00 grep Mon
+root     29768  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     29913  0.0  0.0 438180  1152 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     26348  1.0  0.0 106060  1484 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26352  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+root     29768  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.109 ATTCTV1-SSPT ATTCTV1-SSPT.ctv.local
+root       924  0.0  0.0 569252  1124 ?        Ss   Jun10   0:03 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      5539  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     13454  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     13456  0.0  0.0 103248   868 ?        S    08:52   0:00 grep Mon
+root     27994  0.0  0.0 106188  1460 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root      5539  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     13454  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     13483  0.0  0.0 103244   868 ?        S    08:52   0:00 grep ping
+198.18.0.167 ATTCTV1-STGI ATTCTV1-STGI.ctv.local
+root      1270  0.0  0.0 765860  1280 ?        Ss   Jun09   0:13 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     19888  0.0  0.0 106188  1460 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root     27949  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     29065  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     29067  0.0  0.0 103248   868 ?        S    08:52   0:00 grep Mon
+root     27949  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     29065  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     29069  0.0  0.0 103244   868 ?        S    08:52   0:00 grep ping
+198.18.0.168 ATTCTV2-STGI ATTCTV2-STGI.ctv.local
+root     12515  1.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     12517  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root     16159  0.0  0.0 106192  1456 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     20629  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     30646  0.0  0.0 634788  1212 ?        Ss   Jun09   0:11 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     12515  1.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     12519  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+root     20629  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.155 ATTCTV1-STMS ATTCTV1-STMS.ctv.local
+root      8979  0.0  0.0 106188  1460 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root      9383  0.0  0.0 700324  1268 ?        Ss   Jun09   0:08 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     15029  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     30062  2.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     30064  0.0  0.0 103248   868 ?        S    08:52   0:00 grep Mon
+root     15029  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     30062  2.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     30066  0.0  0.0 103248   868 ?        S    08:52   0:00 grep ping
+198.18.0.165 ATTCTV1-STTX ATTCTV1-STTX.ctv.local
+198.18.0.1 ATTCTV1-STTX_Old ATTCTV1-STTX_Old.ctv.local
+root      7198  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     10067  1.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     10069  0.0  0.0 103244   860 ?        S    08:52   0:00 grep Mon
+root     30820  0.0  0.0 503716  1096 ?        Ss   Jun10   0:03 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     31776  0.0  0.0 106188  1456 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root      7198  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     10067  1.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     10071  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+198.18.0.166 ATTCTV2-STTX ATTCTV2-STTX.ctv.local
+198.18.0.4 ATTCTV2-STTX_Old ATTCTV2-STTX_Old.ctv.local
+root     13355  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     13357  0.0  0.0 103244   860 ?        S    08:52   0:00 grep Mon
+root     14004  0.0  0.0 106192  1448 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     18530  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     23579  0.0  0.0 569252  1184 ?        Ss   Jun09   0:08 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     13355  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     13359  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+root     18530  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.60 SODCTV1-SU SODCTV1-SU.ctv.local
+root      4563  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      4565  0.0  0.0 103244   860 ?        S    08:52   0:00 grep Mon
+root     11846  0.0  0.0 106188  1400 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     26068  0.0  0.0 106060  1308 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     30890  0.0  0.0 569252  1056 ?        Ss   Jun09   0:18 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      4563  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      4568  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+root     26068  0.0  0.0 106060  1308 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.132 ATTCTV1-THR ATTCTV1-THR.ctv.local
+root      2393  0.0  0.0 106060   780 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      6904  0.0  0.0 106188   880 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     24116  1.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     24126  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root     30230  0.0  0.0 831396   644 ?        Ss   Jun09   0:11 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      2393  0.0  0.0 106060   780 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     24116  1.0  0.0 106060  1484 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     24132  0.0  0.0 103244   868 ?        S    08:52   0:00 grep ping
+198.18.0.133 ATTCTV2-THR ATTCTV2-THR.ctv.local
+root      6837  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6839  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root      9011  0.0  0.0 106192  1448 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     13540  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     20174  0.0  0.0 569252  1188 ?        Ss   Jun09   0:11 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      6837  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6841  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+root     13540  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.1 ATTCTV1-STTX_Old ATTCTV1-STTX_Old.ctv.local
+root     11521  0.0  0.0 106060  1376 ?        S    Jun10   0:00 /bin/sh /usr/bin/icservicesMonitor.sh
+root     15671  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     25533  1.0  0.0 106060  1472 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     25535  0.0  0.0 103248   868 ?        S    08:52   0:00 grep Mon
+root     25910  0.0  0.0  14232   608 ?        Ss   Jun09   0:03 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     15671  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     25533  1.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     25537  0.0  0.0 103248   872 ?        S    08:52   0:00 grep ping
+198.18.0.4 ATTCTV2-STTX_Old ATTCTV2-STTX_Old.ctv.local
+root     14089  0.0  0.0  14232   612 ?        Ss   Jun10   0:01 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     14574  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14576  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root     27315  0.0  0.0 106192  1448 ?        S    Jun10   0:01 /bin/sh /usr/bin/icservicesMonitor.sh
+root     31516  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     14574  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     14578  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+root     31516  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.156 ATTCTV1-TSTC ATTCTV1-TSTC.ctv.local
+root       468  0.0  0.0 106188  1464 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root     31088  0.0  0.0  14232   452 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     31972  0.0  0.0 106060  1472 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     31974  0.0  0.0 103248   868 ?        S    08:52   0:00 grep Mon
+root     31972  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     31976  0.0  0.0 103244   864 ?        S    08:52   0:00 grep ping
+198.18.0.157 ATTCTV2-TSTC ATTCTV2-TSTC.ctv.local
+root       734  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root       736  0.0  0.0 103244   860 ?        S    08:52   0:00 grep Mon
+root      6367  0.0  0.0 106192  1448 ?        S    Jun10   0:05 /bin/sh /usr/bin/icservicesMonitor.sh
+root       734  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root       738  0.0  0.0 103244   856 ?        S    08:52   0:00 grep ping
+198.18.0.182 SODCTV1-USE SODCTV1-USE.ctv.local
+root     10778  0.0  0.0  14232   604 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     15498  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     22267  0.0  0.0 106188  1456 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root     24464  3.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     24470  0.0  0.0 103244   880 ?        S    08:52   0:00 grep Mon
+root     15498  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     24464  3.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     24472  0.0  0.0 103244   880 ?        S    08:52   0:00 grep ping
+198.18.0.18 SODCTV1-VIN SODCTV1-VIN.ctv.local
+root     10274  0.0  0.0 634788  1260 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     22227  0.0  0.0 106188  1460 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     28740  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     30893  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     30895  0.0  0.0 103248   872 ?        S    08:52   0:00 grep Mon
+root     28740  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     30893  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     30898  0.0  0.0 103248   868 ?        S    08:52   0:00 grep ping
+198.18.0.120 SODCTV1-XFN SODCTV1-XFN.ctv.local
+root      2894  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      2896  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root      3026  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     23859  0.0  0.0 700324  1280 ?        Ss   Jun09   0:12 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     26612  0.0  0.0 106188  1460 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root      2894  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      2898  0.0  0.0 103244   864 ?        S    08:52   0:00 grep ping
+root      3026  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.104 SODCTV1-YAMA SODCTV1-YAMA.ctv.local
+root      1646  0.0  0.0 106188  1456 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root      5249  1.0  0.0 106060  1472 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      5251  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root     14091  0.0  0.0 634788  1092 ?        Ss   Jun09   0:04 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     23725  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      5249  1.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      5253  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+root     23725  0.0  0.0 106064  1428 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.105 SODCTV2-YAMA SODCTV2-YAMA.ctv.local
+root      7326  0.0  0.0  14232   608 ?        Ss   Jun09   0:03 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     24610  1.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     24615  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root     25612  0.0  0.0 106192  1452 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     30168  0.0  0.0 106064  1432 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     24610  1.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     24612  0.0  0.0 106060  1288 ?        S    08:52   0:00 sh -c /bin/ping -i .10 -w 1 192.168.1.1 2>&1
+root     24613  0.0  0.0 103248   768 ?        S    08:52   0:00 /bin/ping -i .10 -w 1 192.168.1.1
+root     24617  0.0  0.0 103244   864 ?        S    08:52   0:00 grep ping
+root     30168  0.0  0.0 106064  1432 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.188 SODCTV3-CAN SODCTV3-CAN.ctv.local
+root      8282  1.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      8284  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root      9807  0.0  0.0 634788  1260 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     13119  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      8282  1.0  0.0 106060  1484 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      8286  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+root     13119  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.189 SODCTV4-CAN SODCTV4-CAN.ctv.local
+root     13364  3.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     13366  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root     16450  0.0  0.0 106192  1448 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     20932  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     27644  0.0  0.0 634788  3252 ?        Ss   Jun09   0:09 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     13364  3.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     13368  0.0  0.0 103244   864 ?        S    08:52   0:00 grep ping
+root     20932  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.38 SODCTV1-CAN SODCTV1-CAN.ctv.local
+root      4003  2.0  0.0 106060  1472 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      4005  0.0  0.0 103244   860 ?        S    08:52   0:00 grep Mon
+root      4944  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      5254  0.0  0.0 700324  1288 ?        Ss   Jun09   0:12 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     30449  0.0  0.0 106192  1508 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root      4003  2.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      4007  0.0  0.0 103244   864 ?        S    08:52   0:00 grep ping
+root      4944  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.187 SODCTV2-CAN SODCTV2-CAN.ctv.local
+root      2379  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      2381  0.0  0.0 103244   860 ?        S    08:52   0:00 grep Mon
+root      5280  0.0  0.0 106192  1452 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root      9796  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     23646  0.0  0.0 372644   976 ?        Ss   Jun10   0:03 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      2379  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      2383  0.0  0.0 103244   864 ?        S    08:52   0:00 grep ping
+root      9796  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.192 ATTCTV13-PNG ATTCTV13-PNG.ctv.local
+root      8431  0.0  0.0 700324  1284 ?        Ss   Jun09   0:04 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     13902  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     13904  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root     22637  0.0  0.0 106196  1504 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     30022  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     13902  0.0  0.0 106060  1484 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     13906  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+root     30022  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.95 ATTCTV21-PNG ATTCTV21-PNG.ctv.local
+root      5465  0.0  0.0 106188  1460 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root      6642  2.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6644  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root      7554  0.0  0.0 634788  1264 ?        Ss   Jun09   0:08 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     12479  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      6642  2.0  0.0 106060  1484 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6646  0.0  0.0 103244   864 ?        S    08:52   0:00 grep ping
+root     12479  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.96 ATTCTV22-PNG ATTCTV22-PNG.ctv.local
+root      2295  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      2297  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root      7946  0.0  0.0 106192  1452 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     12382  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     27387  0.0  0.0 503716  1168 ?        Ss   Jun09   0:08 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      2295  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      2299  0.0  0.0 103244   864 ?        S    08:52   0:00 grep ping
+root     12382  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.149 ATTCTV3-PNG ATTCTV3-PNG.ctv.local
+root       736  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      7345  0.0  0.0 106060  1472 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7347  0.0  0.0 103248   868 ?        S    08:52   0:00 grep Mon
+root      8235  0.0  0.0 765860  1284 ?        Ss   Jun09   0:07 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     26500  0.0  0.0 106192  1504 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root       736  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      7345  2.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      7349  0.0  0.0 103248   868 ?        S    08:52   0:00 grep ping
+198.18.0.150 ATTCTV4-PNG ATTCTV4-PNG.ctv.local
+root      6407  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6409  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root      8237  0.0  0.0 106192  1448 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     12746  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     18590  0.0  0.0 503716  1180 ?        Ss   Jun09   0:07 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      6407  2.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6411  0.0  0.0 103244   864 ?        S    08:52   0:00 grep ping
+root     12746  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.164 SODCTV1-SOD SODCTV1-SOD.ctv.local
+198.49.223.126 SODCTV1-SOD SODCTV1-SOD.ctv.local
+198.18.0.77 SODCTV2-ADMIN SODCTV2-ADMIN.ctv.local
+172.22.1.21 SODCTV2-ADMIN SODCTV2-ADMIN.ctv.local
+198.18.0.226 ATTCTV1-IADB ATTCTV1-IADB.ctv.local
+198.18.0.226 ATTCTV1-IADB ATTCTV1-IADB.ctv.local
+root      1864  0.0  0.0 106060  1028 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      3610  0.0  0.0 106060  1032 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      4847  0.0  0.0  14232   284 ?        Ss   Jun09   0:04 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     26429  1.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26437  0.0  0.0 103248   884 ?        S    08:52   0:00 grep Mon
+root     27527  0.0  0.0 106192  1160 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     29428  0.0  0.0 106192  1156 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root      1864  0.0  0.0 106060  1028 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      3610  0.0  0.0 106060  1032 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     26429  1.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     26441  0.0  0.0 103248   884 ?        S    08:52   0:00 grep ping
+198.18.0.227 ATTCTV2-IADB ATTCTV2-IADB.ctv.local
+198.18.0.225 SODCTV1-TRI SODCTV1-TRI.ctv.local
+root     18475  0.0  0.0  14232   472 ?        Ss   Jun09   0:02 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     19520  0.0  0.0 106192  1496 ?        S    Jun10   0:08 /bin/sh /usr/bin/icservicesMonitor.sh
+root     31155  0.0  0.0 106060  1360 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     31568  2.0  0.0 106060  1484 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     31574  0.0  0.0 103244   876 ?        R    08:52   0:00 grep Mon
+root     31155  0.0  0.0 106060  1360 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     31568  2.0  0.0 106060  1484 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     31576  0.0  0.0 103244   880 ?        S    08:52   0:00 grep ping
+198.18.0.208 ATTCTV25-PNG ATTCTV25-PNG.ctv.local
+root      6691  0.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6693  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root     24693  0.0  0.0 106196  1500 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root     32767  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      6691  0.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      6695  0.0  0.0 103244   868 ?        S    08:52   0:00 grep ping
+root     32767  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.209 ATTCTV26-PNG ATTCTV26-PNG.ctv.local
+root      9337  0.0  0.0  14232   604 ?        Ss   Jun10   0:01 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     16948  2.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     16950  0.0  0.0 103244   860 ?        S    08:52   0:00 grep Mon
+root     23120  0.0  0.0 106192  1452 ?        S    Jun10   0:01 /bin/sh /usr/bin/icservicesMonitor.sh
+root     27488  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     16948  2.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     16952  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+root     27488  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.230 SODCTV1-SBT SODCTV1-SBT.ctv.local
+root     16544  0.0  0.0 106192  1448 ?        S    Jun10   0:14 /bin/sh /usr/bin/icservicesMonitor.sh
+root     18368  1.0  0.0 106060  1484 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18374  0.0  0.0 103244   872 ?        S    08:52   0:00 grep Mon
+root     22895  0.0  0.0 106060  1360 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     24731  0.0  0.0  14232   608 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     18368  2.0  0.0 106060  1484 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18376  0.0  0.0 103244   876 ?        S    08:52   0:00 grep ping
+root     22895  0.0  0.0 106060  1360 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.193 ATTCTV14-PNG ATTCTV14-PNG.ctv.local
+root      1936  0.0  0.0 569252  1188 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     18431  1.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18433  0.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root     21663  0.0  0.0 106192  1456 ?        S    Jun10   0:01 /bin/sh /usr/bin/icservicesMonitor.sh
+root     26113  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     18431  1.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18435  0.0  0.0 103244   864 ?        S    08:52   0:00 grep ping
+root     26113  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.210 ATTCTV1-AMST ATTCTV1-AMST.ctv.local
+root      8883  3.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      8885  1.0  0.0 103244   864 ?        S    08:52   0:00 grep Mon
+root     17866  0.0  0.0 106192  1508 ?        S    Jun10   0:10 /bin/sh /usr/bin/icservicesMonitor.sh
+root     18634  0.0  0.0 765860  1292 ?        Ss   Jun09   0:17 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     28877  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      8883  3.0  0.0 106060  1484 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      8887  0.0  0.0 103244   864 ?        S    08:52   0:00 grep ping
+root     28877  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.211 ATTCTV2-AMST ATTCTV2-AMST.ctv.local
+root      3153  1.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      3155  0.0  0.0 103244   860 ?        S    08:52   0:00 grep Mon
+root      6484  0.0  0.0 106192  1452 ?        S    Jun10   0:07 /bin/sh /usr/bin/icservicesMonitor.sh
+root     10942  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     19792  0.0  0.0 503716  1172 ?        Ss   Jun09   0:12 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root      3153  1.0  0.0 106060  1484 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      3157  0.0  0.0 103244   860 ?        S    08:52   0:00 grep ping
+root     10942  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.151 ATTCTV1-CTSTN ATTCTV1-CTSTN.ctv.local
+root     17928  0.0  0.0  14232   608 ?        Ss   Jun09   0:06 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     22734  2.0  0.0 106060  1476 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     22736  0.0  0.0 103244   868 ?        S    08:52   0:00 grep Mon
+root     24639  0.0  0.0 106196  1508 ?        S    Jun10   0:06 /bin/sh /usr/bin/icservicesMonitor.sh
+root     31429  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     22734  2.0  0.0 106060  1480 ?        Ss   08:52   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     22738  0.0  0.0 103244   868 ?        S    08:52   0:00 grep ping
+root     31429  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.152 ATTCTV2-CTSTN ATTCTV2-CTSTN.ctv.local
+root     11525  0.0  0.0  14232   604 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     18294  0.0  0.0 106060  1480 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18296  0.0  0.0 103244   864 ?        S    08:53   0:00 grep Mon
+root     24243  0.0  0.0 106192  1452 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     28663  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     18294  0.0  0.0 106060  1484 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18298  0.0  0.0 103244   864 ?        S    08:53   0:00 grep ping
+root     28663  0.0  0.0 106060  1368 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.183 ATTCTV1-FRCMFN ATTCTV1-FRCMFN.ctv.local
+root       375  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     18148  0.0  0.0  14232   608 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     19974  1.0  0.0 106060  1480 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     19976  0.0  0.0 103248   872 ?        S    08:53   0:00 grep Mon
+root     22763  0.0  0.0 106196  1500 ?        S    Jun10   0:03 /bin/sh /usr/bin/icservicesMonitor.sh
+root       375  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     19974  1.0  0.0 106060  1484 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     19978  0.0  0.0 103248   876 ?        S    08:53   0:00 grep ping
+198.18.0.125 ATTCTV2-FRCMFN ATTCTV2-FRCMFN.ctv.local
+root     15624  0.0  0.0 106060  1480 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     15626  0.0  0.0 103244   864 ?        S    08:53   0:00 grep Mon
+root     20473  0.0  0.0  14232   604 ?        Ss   Jun09   0:04 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     25056  0.0  0.0 106192  1452 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     29351  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     15621  0.0  0.0 106060  1288 ?        S    08:53   0:00 sh -c /bin/ping -i .10 -w 1 10.50.19.15 2>&1
+root     15622  0.0  0.0 103248   764 ?        S    08:53   0:00 /bin/ping -i .10 -w 1 10.50.19.15
+root     15624  0.0  0.0 106060  1484 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     15628  0.0  0.0 103244   860 ?        S    08:53   0:00 grep ping
+root     29351  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.226 ATTCTV1-IADB ATTCTV1-IADB.ctv.local
+198.18.0.226 ATTCTV1-IADB ATTCTV1-IADB.ctv.local
+root      1864  0.0  0.0 106060  1028 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      3610  0.0  0.0 106060  1032 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      4847  0.0  0.0  14232   284 ?        Ss   Jun09   0:04 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     27527  0.0  0.0 106192  1160 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     28728  0.0  0.0 106060  1480 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     28735  0.0  0.0 103248   880 ?        S    08:53   0:00 grep Mon
+root     29428  0.0  0.0 106192  1156 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root      1864  0.0  0.0 106060  1028 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      3610  0.0  0.0 106060  1032 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     28728  1.0  0.0 106060  1480 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     28747  0.0  0.0 103248   884 ?        S    08:53   0:00 grep ping
+198.18.0.79 SODCTV1-ADMIN SODCTV1-ADMIN.ctv.local
+root      5399  0.0  0.0 106192  1496 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     11826  0.0  0.0 700452  1296 ?        Ss   Jun09   0:09 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     22591  0.0  0.0 106060  1484 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     22600  0.0  0.0 103248   884 ?        S    08:53   0:00 grep Mon
+root     22591  0.0  0.0 106060  1484 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     22602  0.0  0.0 103244   876 ?        S    08:53   0:00 grep ping
+198.18.0.64 SODCTV1-EB SODCTV1-EB.ctv.local
+root     18957  0.0  0.0  14232   608 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     19742  1.0  0.0 106060  1484 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     19748  0.0  0.0 103244   872 ?        S    08:53   0:00 grep Mon
+root     25550  0.0  0.0 106192  1452 ?        S    Jun10   0:05 /bin/sh /usr/bin/icservicesMonitor.sh
+root     31731  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     19742  1.0  0.0 106060  1484 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     19750  0.0  0.0 103244   872 ?        S    08:53   0:00 grep ping
+root     31731  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.200 SODCTV1-SDCCU SODCTV1-SDCCU.ctv.local
+root      4154  2.0  0.0 106060  1476 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      4156  0.0  0.0 103244   860 ?        S    08:53   0:00 grep Mon
+root     15192  0.0  0.0 106196  1508 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root     19852  0.0  0.0  14232   612 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     21201  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root      4154  3.0  0.0 106060  1480 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root      4158  0.0  0.0 103244   860 ?        S    08:53   0:00 grep ping
+root     21201  0.0  0.0 106060  1372 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.164 SODCTV1-SOD SODCTV1-SOD.ctv.local
+198.49.223.126 SODCTV1-SOD SODCTV1-SOD.ctv.local
+198.18.0.223 ATTCTV3-YUM ATTCTV3-YUM.ctv.local
+root      5818  0.0  0.0 106192  1496 ?        S    Jun10   0:07 /bin/sh /usr/bin/icservicesMonitor.sh
+root      8478  0.0  0.0  14232   604 ?        Ss   Jun10   0:02 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     11382  0.0  0.0 106060  1480 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     11388  0.0  0.0 103244   872 ?        S    08:53   0:00 grep Mon
+root     14987  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     11382  0.0  0.0 106060  1480 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     11390  0.0  0.0 103244   872 ?        S    08:53   0:00 grep ping
+root     14987  0.0  0.0 106060  1364 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+198.18.0.69 SODCTV1-BEBE SODCTV1-BEBE.ctv.local
+root     10489  0.0  0.0 106064   660 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     15823  0.0  0.0 106192   872 ?        S    Jun10   0:02 /bin/sh /usr/bin/icservicesMonitor.sh
+root     21294  0.0  0.0 106060  1480 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     21302  0.0  0.0 103248   868 ?        S    08:53   0:00 grep Mon
+root     22505  0.0  0.0  14232   184 ?        Ss   Jun09   0:03 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     10489  0.0  0.0 106064   660 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     21294  0.0  0.0 106060  1484 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     21309  0.0  0.0 103248   872 ?        S    08:53   0:00 grep ping
+198.18.0.78 SODCTV2-BEBE SODCTV2-BEBE.ctv.local
+root      3489  0.0  0.0 106064  1432 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     22346  1.0  0.0 106060  1480 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     22348  0.0  0.0 103244   860 ?        S    08:53   0:00 grep Mon
+root     22433  0.0  0.0  14232   608 ?        Ss   Jun09   0:05 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     31567  0.0  0.0 106192  1444 ?        S    Jun10   0:04 /bin/sh /usr/bin/icservicesMonitor.sh
+root      3489  0.0  0.0 106064  1432 ?        S    Jun10   0:00 /bin/sh /usr/bin/pingtestMonitor.sh
+root     22343  0.0  0.0 106060  1292 ?        S    08:53   0:00 sh -c /bin/ping -i .10 -w 1 10.20.224.254 2>&1
+root     22344  0.0  0.0 103248   768 ?        S    08:53   0:00 /bin/ping -i .10 -w 1 10.20.224.254
+root     22346  1.0  0.0 106060  1484 ?        Ss   08:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     22350  0.0  0.0 103244   860 ?        S    08:53   0:00 grep ping
+198.18.255.2 SODCTV1-TST SODCTV1-TST.ctv.local
+root      1416  0.0  0.0 106192  1500 ?        S    02:02   0:09 /bin/sh /usr/bin/icservicesMonitor.sh
+root     11655  0.0  0.0  14232   600 ?        Ss   00:49   0:02 /opt/HostMon/rma -d /opt/HostMon/rma.ini
+root     18599  0.0  0.0 106060  1476 ?        Ss   15:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18605  0.0  0.0 103248   876 ?        S    15:53   0:00 grep Mon
+root     18599  0.0  0.0 106060  1476 ?        Ss   15:53   0:00 bash -c ps aux | grep Mon && ps aux |  grep ping
+root     18607  0.0  0.0 103244   876 ?        S    15:53   0:00 grep ping
